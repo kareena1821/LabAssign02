@@ -56,6 +56,10 @@ public class Q3 {
                 System.out.println("December 31 Days");
                 break;
             }
+            default:{
+                System.out.println("Enter correct value");
+                break;
+            }
 
         }
     }
