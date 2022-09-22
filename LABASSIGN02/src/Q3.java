@@ -62,6 +62,7 @@ public class Q3 {
             }
 
         }
+        sc.close();
     }
     
 }

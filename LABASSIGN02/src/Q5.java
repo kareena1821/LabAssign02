@@ -13,6 +13,7 @@ public class Q5 {
             long forth_power=i*third_power;
             System.out.println(first_power+"   "+second_power+"   "+third_power+"   "+forth_power);
         }
+        sc.close();
 
 
     }
